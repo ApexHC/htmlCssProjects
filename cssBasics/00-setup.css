@@ -1,0 +1,19 @@
+/*
+
+My introduction to CSS Coding
+Foundations Course
+
+*/
+body {
+    background-color: #d3d3d3;
+}
+
+strong {
+    color: green;
+}
+
+.wrapper {
+    border: 10px solid red;
+}
+
+/*  */
